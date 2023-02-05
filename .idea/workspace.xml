@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d437ff25-c52a-4ed4-97ff-0a8a47fd47c0" name="Changes" comment="First commit">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lesson3/Lesson3/Facebook.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lesson3/Lesson3/Rozetka.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lesson3/Lesson4/BrowserType.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lesson3/Lesson4/ExampleLesson4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lesson3/Lesson4/MyDriver$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lesson3/Lesson4/MyDriver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lesson3/Lesson5/BrowserTitleTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lesson3/Lesson5/FacebookRegistrationTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/lesson3/Lesson5/suite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/geckodriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/CHANGELOG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/NOTICE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/lib/async-http-client-2.12.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/lib/async-http-client-netty-utils-2.12.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/lib/auto-common-1.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/lib/auto-service-1.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/lib/auto-service-annotations-1.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/lib/byte-buddy-1.12.22.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/lib/checker-qual-3.12.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/lib/commons-exec-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/lib/error_prone_annotations-2.11.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/lib/failsafe-3.3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/lib/failureaccess-1.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/lib/guava-31.1-jre.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/lib/j2objc-annotations-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/lib/jakarta.activation-1.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/lib/jcommander-1.82.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/lib/jsr305-3.0.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/lib/jtoml-2.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/lib/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/lib/netty-buffer-4.1.87.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/lib/netty-codec-4.1.87.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/lib/netty-codec-http-4.1.87.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/lib/netty-codec-socks-4.1.87.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/lib/netty-common-4.1.87.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/lib/netty-handler-4.1.87.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/lib/netty-handler-proxy-4.1.87.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/lib/netty-reactive-streams-2.0.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/lib/netty-resolver-4.1.87.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/lib/netty-transport-4.1.87.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/lib/netty-transport-classes-epoll-4.1.87.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/lib/netty-transport-classes-kqueue-4.1.87.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/lib/netty-transport-native-epoll-4.1.87.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/lib/netty-transport-native-kqueue-4.1.87.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/lib/netty-transport-native-unix-common-4.1.87.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/lib/opentelemetry-api-1.22.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/lib/opentelemetry-api-logs-1.22.0-alpha.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/lib/opentelemetry-context-1.22.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/lib/opentelemetry-exporter-logging-1.22.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/lib/opentelemetry-sdk-1.22.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/lib/opentelemetry-sdk-common-1.22.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/lib/opentelemetry-sdk-extension-autoconfigure-1.22.0-alpha.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/lib/opentelemetry-sdk-extension-autoconfigure-spi-1.22.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/lib/opentelemetry-sdk-logs-1.22.0-alpha.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/lib/opentelemetry-sdk-metrics-1.22.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/lib/opentelemetry-sdk-trace-1.22.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/lib/opentelemetry-semconv-1.22.0-alpha.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/lib/reactive-streams-1.0.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/lib/slf4j-api-2.0.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/selenium-api-4.8.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/selenium-api-4.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/selenium-chrome-driver-4.8.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/selenium-chrome-driver-4.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/selenium-chromium-driver-4.8.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/selenium-chromium-driver-4.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/selenium-devtools-v107-4.8.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/selenium-devtools-v107-4.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/selenium-devtools-v108-4.8.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/selenium-devtools-v108-4.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/selenium-devtools-v109-4.8.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/selenium-devtools-v109-4.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/selenium-devtools-v85-4.8.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/selenium-devtools-v85-4.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/selenium-edge-driver-4.8.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/selenium-edge-driver-4.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/selenium-firefox-driver-4.8.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/selenium-firefox-driver-4.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/selenium-http-4.8.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/selenium-http-4.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/selenium-ie-driver-4.8.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/selenium-ie-driver-4.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/selenium-java-4.8.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/selenium-java-4.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/selenium-json-4.8.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/selenium-json-4.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/selenium-manager-4.8.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/selenium-manager-4.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/selenium-remote-driver-4.8.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/selenium-remote-driver-4.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/selenium-safari-driver-4.8.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/selenium-safari-driver-4.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/selenium-support-4.8.0-sources.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/selenium-java-4.8.0/selenium-support-4.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sources/testng-7.7.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson3/Facebook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson3/Rozetka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson4/BrowserType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson4/ExampleLesson4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson4/MyDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson5/BrowserTitleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson5/FacebookRegistrationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lesson5/suite.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2L5EAq7B19QYkIYwiBPghcHhAWE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/serhii/lesson3/sources&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Lesson4" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/sources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG./Users/serhii/lesson3/src/Lesson5/suite.xml">
+    <configuration name="Facebook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lesson3.Facebook" />
+      <module name="lesson3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Rozetka" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Rozetka" />
+      <module name="lesson3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BrowserTitleTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="lesson3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Lesson5" />
+      <option name="MAIN_CLASS_NAME" value="Lesson5.BrowserTitleTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FacebookRegistrationTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="lesson3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Lesson5" />
+      <option name="MAIN_CLASS_NAME" value="Lesson5.FacebookRegistrationTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FacebookRegistrationTest.goToRegistrationScreen" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="lesson3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lesson5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Lesson5" />
+      <option name="MAIN_CLASS_NAME" value="Lesson5.FacebookRegistrationTest" />
+      <option name="METHOD_NAME" value="goToRegistrationScreen" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/serhii/lesson3/src/Lesson5/suite.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="lesson3" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/Lesson5/suite.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Users/serhii/lesson3/src/Lesson5/suite.xml" />
+        <item itemvalue="TestNG.FacebookRegistrationTest" />
+        <item itemvalue="TestNG.BrowserTitleTest" />
+        <item itemvalue="Application.Facebook" />
+        <item itemvalue="TestNG.FacebookRegistrationTest.goToRegistrationScreen" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d437ff25-c52a-4ed4-97ff-0a8a47fd47c0" name="Changes" comment="" />
+      <created>1675152405945</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675152405945</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+  </component>
+</project>
