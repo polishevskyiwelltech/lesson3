@@ -37,7 +37,7 @@ public class BrowserTitleTest {
         element.submit();
         Thread.sleep(3000);
         String title = driver.getTitle();
-        Assert.assertTrue(title.contains("Selenium"), "Title verification failed for " + browserName);
+        Assert.assertTrue(title.contains("git merge vs rebase"), "Title verification failed for " + browserName);
     }
 
     @AfterMethod
